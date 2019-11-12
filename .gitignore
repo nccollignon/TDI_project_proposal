@@ -3,8 +3,6 @@
 # Consider removing already checked-in checkpoints?
 .ipynb_checkpoints
 
-active-learning-changing-environments/etc/
-
 # remove .pyc files
 *.pyc
 
