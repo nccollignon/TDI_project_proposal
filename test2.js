@@ -451,8 +451,4 @@ function addMetricUnits(text) {
         return newText;
     }
 
-var test = addMetricUnits(subj);
-console.log(test)
-IPython.notebook.kernel.execute('output="'+test+'";')
-// addMetricUnits
-// console.log(addMetricUnits('3/4 cup unsweetened cocoa'))
+addMetricUnits(subj)
